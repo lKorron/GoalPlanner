@@ -20,7 +20,7 @@ class MainViewController: UIViewController {
         super.viewDidLoad()
         tableView.delegate = self
         tableView.register(UITableViewCell.self, forCellReuseIdentifier: "Goal")
-       
+        print("ready to save data");
         
     }
     
