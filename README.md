@@ -1,2 +1,2 @@
 # GoalPlanner
- Mobile app for quick tasks
+ Standard application for goal planning. Based on MVP pattern with Router.
